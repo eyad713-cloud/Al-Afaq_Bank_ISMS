@@ -6,7 +6,7 @@
 
 Welcome to the **Al-Afaq Digital Bank** Information Security Management System (ISMS) repository. This project demonstrates a comprehensive, ISO/IEC 27001:2022 aligned security framework tailored for a modern, digital-first banking environment.
 
-> **Disclaimer:** Al-Afaq Digital Bank is a **fictional organization** created solely for academic, educational, and portfolio-demonstration purposes. No real customer data, credentials, or proprietary vendor templates are included in this repository. All documents have been built using Clean Room Design principles.
+> *Disclaimer:** Al-Afaq Digital Bank is a **fictional organization** created solely for academic, educational, and portfolio-demonstration purposes. No real customer data, credentials, or proprietary vendor templates are included in this repository. All documents have been built using Clean Room Design principles.
 
 ---
 

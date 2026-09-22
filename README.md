@@ -54,4 +54,4 @@ This repository serves as a practical reference for:
 - Anyone interested in the documentation lifecycle of a financial institution's security posture.
 
 ---
-*Developed as part of a Cybersecurity & Digital Forensics academic capstone.*
+*Developed as part of a Cybersecurity & Digital Forensics academic capstone..*

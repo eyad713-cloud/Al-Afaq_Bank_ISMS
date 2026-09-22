@@ -1,4 +1,4 @@
-# Al-Afaq Digital Bank ISMS
+## Al-Afaq Digital Bank ISMS
 
 ![ISMS Shield](https://img.shields.io/badge/ISO%2F IEC%2027001%3A2022-Compliant-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Academic_Project-blue)
